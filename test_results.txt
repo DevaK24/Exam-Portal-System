@@ -1,0 +1,29 @@
+Score: 9 out of 9
+Percentage: 100.0%
+Details: Q1: AWT stands for?
+Your Answer: B
+Correct Answer: B
+Q2: Which package is used for import the swing components?
+Your Answer: C
+Correct Answer: C
+Q3: Which components is swing represents data in row and columns?
+Your Answer: B
+Correct Answer: B
+Q4: Which event is generated when the position of scrollbar is changed?
+Your Answer: D
+Correct Answer: D
+Q5: Port number of FTP?
+Your Answer: A
+Correct Answer: A
+Q6: The ____ class is used to create TCP server.
+Your Answer: C
+Correct Answer: C
+Q7: Public class DriverManager extends___ .
+Your Answer: A
+Correct Answer: A
+Q8: Which of the following method is used for send SQL statements?
+Your Answer: D
+Correct Answer: D
+Q9: ____ is first Phase of Servlet Life Cycle.
+Your Answer: B
+Correct Answer: B
